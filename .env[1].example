@@ -1,0 +1,3 @@
+# Copy this file to .env and fill in your key for local `netlify dev` testing.
+# On Netlify itself, set this in Site settings -> Environment variables instead.
+ANTHROPIC_API_KEY=sk-ant-your-key-here

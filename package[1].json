@@ -1,0 +1,9 @@
+{
+  "name": "cheetah-compile-x",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cheetah Compile X — Python / C / JavaScript / SQL playground with AI code review",
+  "engines": {
+    "node": ">=18"
+  }
+}
