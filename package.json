@@ -5,5 +5,8 @@
   "description": "Cheetah Compile X — Python / C / JavaScript / SQL playground with AI code review",
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.0"
   }
 }
